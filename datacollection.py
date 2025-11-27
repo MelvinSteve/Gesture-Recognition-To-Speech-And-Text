@@ -1,7 +1,7 @@
 import cv2
 import os
 
-num_classes = 29
+num_classes = 30
 samples_per_class = 100
 
 dataset_folder = 'images/sign-images'
